@@ -25,3 +25,9 @@ target 'DemoExtension' do
     pod "IQKeyboardManagerSwift", :path => "."
 
 end
+
+target 'DemoTestVuln' do
+
+    pod 'ffmpeg'
+
+end

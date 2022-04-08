@@ -3,6 +3,7 @@ PODS:
   - IQKeyboardManager (6.5.8)
   - IQKeyboardManagerSwift (6.5.8)
   - SwiftLint (0.40.0)
+  - ffmpeg (1.0.0)
 
 DEPENDENCIES:
   - IQDropDownTextField
