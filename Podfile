@@ -28,6 +28,6 @@ end
 
 target 'DemoTestVuln' do
 
-    pod 'ffmpeg'
+    pod 'FFmpeg'
 
 end
