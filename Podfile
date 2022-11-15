@@ -31,3 +31,10 @@ target 'DemoTestVuln' do
     pod 'FFmpeg'
 
 end
+
+target 'ParsingImprovements' do
+    pod 'Alamofire'
+    pod 'Charts'
+    pod 'IQKeyboardManager'
+    pod 'YogaKit'
+end
